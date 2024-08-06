@@ -21,7 +21,7 @@
     "chai": "^4.0.1",
     "coveralls": "^3.0.1",
     "istanbul": "^0.4.5",
-    "mocha": "^5.1.1"
+    "mocha": "^10.7.0"
   },
   "scripts": {
     "build": "browserify ./lib/index.js -o ./dist/WScript.js",
